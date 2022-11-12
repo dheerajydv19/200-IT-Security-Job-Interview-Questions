@@ -235,3 +235,8 @@ The questions evaluate a broad range of candidate’s technical skills, understa
 
 ## Special Thanks
 [McAfee, LLC](https://www.mcafee.com/)
+
+The solution of all these questions will be available at my medium account soon. 
+Follow me at https://medium.com/@dheerajydv19
+Check out the part 1 at 
+https://medium.com/p/36e623bdf9b0
