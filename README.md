@@ -9,6 +9,7 @@ candidate’s strengths and most glaring weaknesses. Categories include:
 - [Risk Management](#risk-management)
 - [Security Audit, Testing and Incident Response](#security-audits-testing--incident-response)
 - [Cryptography](#cryptography)
+- [Solutions](solutions)
 
 The questions evaluate a broad range of candidate’s technical skills, understanding of cybersecurity terminology and technology as well as their ability to think and solve problems. 
 
@@ -238,5 +239,7 @@ The questions evaluate a broad range of candidate’s technical skills, understa
 
 The solution of all these questions will be available at my medium account soon. 
 Follow me at https://medium.com/@dheerajydv19
+
+## Solutions
 Check out the part 1 at 
 https://medium.com/p/36e623bdf9b0
